@@ -2,7 +2,6 @@
 
 An interactive one-page Power BI dashboard built on 19 years of daily weather observations for Madrid. The project covers the full flow: data cleaning in Power Query, data modeling, DAX measures, and dashboard design.
 
-![Dashboard preview](images/dashboard.png)
 
 ---
 
