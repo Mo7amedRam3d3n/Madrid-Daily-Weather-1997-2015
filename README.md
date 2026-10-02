@@ -1,8 +1,11 @@
 ﻿# 🌤️ Madrid Weather Dashboard (1997 - 2015)
 
 An interactive one-page Power BI dashboard built on 19 years of daily weather observations for Madrid. The project covers the full flow: data cleaning in Power Query, data modeling, DAX measures, and dashboard design.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> e74ce1c1bca862f387a81816c2b2be9546489292
 ---
 
 ## 🎯 Project Overview
