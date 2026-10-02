@@ -91,3 +91,4 @@ Some readings are missing in the source data, especially precipitation, visibili
 - Power BI Desktop
 - Power Query
 - DAX
+- Visualizations
